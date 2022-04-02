@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="github.kokorin.jaffree" type="repository">
+    <properties maven-id="com.github.kokorin.jaffree:jaffree:2021.12.30" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jaffree-2021.12.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nanojson-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

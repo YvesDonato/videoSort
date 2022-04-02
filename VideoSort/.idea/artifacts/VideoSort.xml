@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="VideoSort">
+    <output-path>$PROJECT_DIR$/out/artifacts/VideoSort</output-path>
+    <root id="root" />
+  </artifact>
+</component>

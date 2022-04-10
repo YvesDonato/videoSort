@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.kokorin.jaffree:jaffree:2021.12.30">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/kokorin/jaffree/jaffree/2021.12.30/jaffree-2021.12.30.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/kokorin/jaffree/jaffree/2021.12.30/jaffree-2021.12.30-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/kokorin/jaffree/jaffree/2021.12.30/jaffree-2021.12.30-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

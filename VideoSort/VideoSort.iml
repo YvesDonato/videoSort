@@ -10,17 +10,19 @@
     </content>
     <orderEntry type="jdk" jdkName="16" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:18" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:win:18" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:18" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:win:18" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:18" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:win:18" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:18" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:win:18" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-media:18" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-media:win:18" level="project" />
-    <orderEntry type="library" name="Maven: com.drewnoakes:metadata-extractor:2.17.0" level="project" />
-    <orderEntry type="library" name="Maven: com.adobe.xmp:xmpcore:6.1.11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:19-ea+4" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:win:19-ea+4" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:19-ea+4" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:win:19-ea+4" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:19-ea+4" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:win:19-ea+4" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:19-ea+4" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:win:19-ea+4" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-media:19-ea+4" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-media:win:19-ea+4" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.36" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:1.7.36" level="project" />
+    <orderEntry type="library" name="Maven: com.github.kokorin.jaffree:jaffree:2021.12.30" level="project" />
+    <orderEntry type="library" name="Maven: com.grack:nanojson:1.7" level="project" />
   </component>
 </module>

@@ -14,6 +14,7 @@ public class Video implements Comparable<Video> {
     File file;
 
     public Video(){}
+
     // Video Constructor
     public Video(String name, String fileType, double length, int size,
                  int resolution, int id){

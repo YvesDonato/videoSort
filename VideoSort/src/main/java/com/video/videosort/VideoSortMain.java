@@ -1,3 +1,7 @@
+// ffmpeg is needed for this to run additionally from the maven libs
+// please follow this tutorial:
+// https://www.youtube.com/watch?v=r1AtmY-RMyQ
+
 package com.video.videosort;
 
 // Jaffree imports
